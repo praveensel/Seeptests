@@ -47,7 +47,7 @@ public class Testbase {
     {
         String userdir=System.getProperty("user.dir");
 
-        CONFIG_FILE= new File(userdir+"\\credentials.xml");
+        CONFIG_FILE= new File(userdir+"/credentials.xml");
         System.out.println(CONFIG_FILE.getAbsoluteFile());
         System.out.println(CONFIG_FILE.getAbsolutePath());
         System.out.print(baseURL);
