@@ -1,7 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00f4fe80-53d0-491e-837e-237ae5bb7587" name="Default" comment="" />
+    <list default="true" id="00f4fe80-53d0-491e-837e-237ae5bb7587" name="Default" comment="">
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\classes\com\annectos\webdriver\Common\Assertion.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\classes\com\annectos\webdriver\Common\CommonMethods.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\classes\com\annectos\webdriver\Common\JsonReader.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\classes\com\annectos\webdriver\Common\Properties.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\classes\com\annectos\webdriver\Common\Staticprovider.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\classes\com\annectos\webdriver\Common\Testbase.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\classes\com\annectos\webdriver\Common\XMLFunctions.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\classes\com\annectos\webdriver\Helper\Global.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\classes\com\annectos\webdriver\Helper\ImageCompare.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\classes\com\annectos\webdriver\Helper\Logger.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\classes\com\annectos\webdriver\Helper\MySQLAccess.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\classes\com\annectos\webdriver\Helper\PropertiesSetter.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\classes\com\annectos\webdriver\PageObjects\CatPageObjects.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\classes\com\annectos\webdriver\PageObjects\HomePageObjects.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\classes\com\annectos\webdriver\PageObjects\LoginPageObjects.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\classes\com\annectos\webdriver\PageObjects\Men_Footwear_Objects.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\classes\com\annectos\webdriver\PageObjects\My_Profile_PageObjects.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\classes\com\annectos\webdriver\PageObjects\SeepClaim\ProfilePageObject.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\classes\com\annectos\webdriver\PageObjects\SeepClaim\SeepHomePageObjects.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\classes\com\annectos\webdriver\PageObjects\SeepClaim\SeepLoginPageObjects.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\classes\com\annectos\webdriver\TestCases\Checkout.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\classes\com\annectos\webdriver\TestCases\HomePageTestCases.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\classes\com\annectos\webdriver\TestCases\Logintestcases.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\classes\com\annectos\webdriver\TestCases\MyProfileTestCase.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\classes\com\annectos\webdriver\TestCases\SeepCases\SeepHomePageCases.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\classes\com\annectos\webdriver\TestCases\SeepCases\SeepLoginPageCases.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\classes\com\annectos\webdriver\TestCases\SeepCases\SeepProfilePageCases.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\classes\com\annectos\webdriver\Testsuites\GoogleSearchTestNG.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\surefire-reports\Reporttest\Chrome .html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\surefire-reports\Reporttest\Chrome .xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\surefire-reports\html\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\surefire-reports\html\overview.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\surefire-reports\junitreports\TEST-com.annectos.webdriver.TestCases.SeepCases.SeepProfilePageCases.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\surefire-reports\old\Reporttest\Chrome .properties" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\surefire-reports\old\Reporttest\classes.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\surefire-reports\old\Reporttest\groups.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\surefire-reports\old\Reporttest\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\surefire-reports\old\Reporttest\main.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\surefire-reports\old\Reporttest\methods-alphabetical.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\surefire-reports\old\Reporttest\methods-not-run.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\surefire-reports\old\Reporttest\methods.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\surefire-reports\old\Reporttest\reporter-output.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\surefire-reports\old\Reporttest\testng.xml.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\surefire-reports\old\Reporttest\toc.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\surefire-reports\old\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\surefire-reports\testng.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\surefire\surefire3088167341750154934tmp" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\surefire\surefire_05180533360430212355tmp" afterPath="" />
+      <change type="DELETED" beforePath="D:\Selenium\Seep Automation\target\surefire\surefirebooter1471101665517683409.jar" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/screenshots/screenshot2.png" afterPath="$PROJECT_DIR$/logs/screenshots/screenshot2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/screenshots/screenshot4.png" afterPath="$PROJECT_DIR$/logs/screenshots/screenshot4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/screenshots/screenshot6.png" afterPath="$PROJECT_DIR$/logs/screenshots/screenshot6.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Seep Automation.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -63,11 +118,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6675978" vertical-offset="118" max-vertical-offset="1224">
+            <state vertical-scroll-proportion="-4.892857" vertical-offset="220" max-vertical-offset="1224">
               <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Testng.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Testng.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="595">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SeepProfilePageCases.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/annectos/webdriver/TestCases/SeepCases/SeepProfilePageCases.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.10880829" vertical-offset="518" max-vertical-offset="986">
+              <caret line="34" column="55" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -91,6 +166,9 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="true" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -243,6 +321,70 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Testsuites" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Seep Automation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Seep Automation" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webdriver" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestCases" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Seep Automation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Seep Automation" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webdriver" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestCases" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SeepCases" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -479,11 +621,11 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32861635" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20278184" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20278184" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32861635" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32861635" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -527,8 +669,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6675978" vertical-offset="118" max-vertical-offset="1224">
+        <state vertical-scroll-proportion="-4.892857" vertical-offset="220" max-vertical-offset="1224">
           <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/annectos/webdriver/TestCases/SeepCases/SeepProfilePageCases.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.10880829" vertical-offset="518" max-vertical-offset="986">
+          <caret line="34" column="55" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding />
         </state>
       </provider>
