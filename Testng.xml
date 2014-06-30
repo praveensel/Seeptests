@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+
+<suite name="Reporttest" verbose="1" >
+
+    <listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter" />
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+    </listeners>
+
+    <parameter name="URL" value="http://seep-digilink.in/">
+        <parameter name="browser" value="Chrome"/>
+        <parameter name="RunMode" value="any" />
+        <parameter name="PlatformName" value="ANY" />
+        <parameter name="browserVersion" value="ANY"/>
+    </parameter>
+<test name="Chrome ">
+
+    <classes>
+
+      <class name="com.annectos.webdriver.TestCases.SeepCases.SeepProfilePageCases" >
+        <methods>
+
+            <include name="It_should_give_alert_to_enter_first_name" />
+        </methods>
+        </class>
+    </classes>
+</test>
+</suite>
