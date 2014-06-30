@@ -11,7 +11,7 @@
 
     <parameter name="URL" value="http://seep-digilink.in/">
         <parameter name="browser" value="Chrome"/>
-        <parameter name="RunMode" value="any" />
+        <parameter name="RunMode" value="grid" />
         <parameter name="PlatformName" value="ANY" />
         <parameter name="browserVersion" value="ANY"/>
     </parameter>
