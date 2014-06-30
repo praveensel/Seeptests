@@ -53,8 +53,8 @@ public class Testbase {
         System.out.print(baseURL);
         baseURL =URL  ;
         com.annectos.webdriver.Common.Properties.setVariables();
-        System.out.println("Working Directory = " +
-                System.getProperty("user.dir"));
+        System.setProperty("webdriver.chrome.driver", userdir+"\\src\\main\\resources\\chromedriver.exe");
+
         System.setProperty("org.uncommons.reportng.escape-output", "false");
       //  System.setProperty("webdriver.chrome.driver", "D:\\dev\\Selenium\\Automatedtests\\src\\Resources\\Driver\\chromedriver.exe");
         //System.setProperty("org.uncommons.reportng.stylesheet","E:\\AnnectosAutomatedTesting\\test-output\\html\\ReportngEdit.css");
@@ -69,7 +69,6 @@ public class Testbase {
                       String URL)                    throws MalformedURLException {
 
 
-        //System.setProperty("webdriver.chrome.driver", "\\src\\main\\resources\\chromedriver.exe");
 
         if ((browser.equalsIgnoreCase("chrome"))) {
 
