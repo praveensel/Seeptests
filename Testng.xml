@@ -22,7 +22,7 @@
       <class name="com.annectos.webdriver.TestCases.SeepCases.SeepProfilePageCases" >
         <methods>
 
-            <include name="It_should_give_alert_to_enter_first_name" />
+
         </methods>
         </class>
     </classes>
