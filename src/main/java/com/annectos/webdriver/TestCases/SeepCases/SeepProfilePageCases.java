@@ -32,6 +32,7 @@ public class SeepProfilePageCases extends Testbase{
             seepLoginpgobj.Login_with_both_Email_and_Password(email,Password);
             seepLoginpgobj.Profile();
             profilePageObject.checkAllElements();
+            seepLoginpgobj.Logout();
 
         }
     }
@@ -51,6 +52,7 @@ public class SeepProfilePageCases extends Testbase{
             seepLoginpgobj.Login_with_both_Email_and_Password(email,Password);
             seepLoginpgobj.Profile();
             profilePageObject.Save_profile_without_First_name(Firstname,LastName,MobileNo,DOB,CFD,Education);
+            seepLoginpgobj.Logout();
 
         }
     }

@@ -1,4 +1,4 @@
-package com.Annectos.Webdriver.Helper;
+package com.annectos.webdriver.Helper;
 
 import java.io.File;
 
@@ -17,7 +17,7 @@ public class PropertiesSetter
  public static void setPropertiesManually()
 
  {
-        Global.BROWSER = "FF";
+        com.annectos.webdriver.Helper.Global.BROWSER = "FF";
 Global.DOMAIN = "http://mediawiki119.wikia.com/";
 Global.LIVE_DOMAIN = "http://www.wikia.com/";
 String seleniumConfigDir = "c:"+File.separator+"selenium-config";

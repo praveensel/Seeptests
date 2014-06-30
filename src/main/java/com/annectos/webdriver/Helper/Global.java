@@ -1,4 +1,4 @@
-package com.Annectos.Webdriver.Helper;
+package com.annectos.webdriver.Helper;
 
 /**
  * Created with IntelliJ IDEA.

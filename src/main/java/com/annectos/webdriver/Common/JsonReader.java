@@ -1,4 +1,4 @@
-package com.Annectos.Webdriver.Common;
+package com.annectos.webdriver.Common;
 
 /**
  * Created with IntelliJ IDEA.

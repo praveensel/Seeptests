@@ -109,7 +109,7 @@ public class ProfilePageObject extends CommonMethods{
     @CacheLookup
     public WebElement selected_address_city ;
 
-    @FindBy(css = "Input[ng-model=\"selected_address.state\"]")
+    @FindBy(css = "select[ng-model=\"selected_address.state\"]")
     @CacheLookup
     public WebElement selected_address_State ;
 
@@ -135,6 +135,7 @@ public class ProfilePageObject extends CommonMethods{
     }
     public void checkAllElements()
     {
+        assertElementPresent(selected_address_State);
         assertElementPresent(elmFirstName);
         assertElementPresent(elmlasttName);
         assertElementPresent(elmCFD);
@@ -163,7 +164,7 @@ public class ProfilePageObject extends CommonMethods{
         assertElementPresent(selected_address_address);
         assertElementPresent(selected_address_street);
         assertElementPresent(selected_address_city);
-        assertElementPresent(selected_address_State);
+
         assertElementPresent(selected_address_zipcode);
         assertElementPresent(selected_address_mobile_no);
         assertElementPresent(update_save_btn);

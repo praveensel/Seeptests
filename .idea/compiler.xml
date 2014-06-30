@@ -25,6 +25,9 @@
         <module name="Seep Automation" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Seep Automation" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
 

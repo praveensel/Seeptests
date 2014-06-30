@@ -1,4 +1,4 @@
-package com.Annectos.Webdriver.Helper;
+package com.annectos.webdriver.Helper;
 
 import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;
